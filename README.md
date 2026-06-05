@@ -1,46 +1,26 @@
-
-# 🛡️ Virtue Utility Suite
+# 🛡️ Virtue Utility Suite (Beta)
 **Maintained by: Benny**
 
-Virtue is a high-performance, open-source system administration tool designed to centralize Windows maintenance and diagnostics into a single, modern interface.
-
-## ⚠️ Project Status: BETA
-Virtue is currently in **Active Beta**. While all core features are functional, we are testing compatibility across various hardware configurations. 
-* **Current Goal:** Refining hardware detection for older legacy systems.
-* **Feedback:** If you encounter a bug, please open an "Issue" here on GitHub!
+Virtue is an open-source system administration and diagnostic suite engineered for Windows environments. It provides a centralized, full-screen interface for real-time health monitoring, system file auditing, and automated maintenance tasks.
 
 ---
 
 ## 🌟 Core Features
 
 ### 🩺 Ultimate Health Checker
-A live dashboard that audits your PC's vitals:
-* **CPU & RAM Monitoring:** Real-time saturation checks to identify bottlenecks.
-* **Disk Reliability:** S.M.A.R.T. polling to verify physical drive health.
-* **Update Audit:** Detects if a restart is required for critical security patches.
+A live dashboard checking your PC's essentials, including CPU load, RAM utilization, and storage status.
 
-### 🛠️ Automated Repairs
-* **Network Fixes:** One-click DNS flushing and gateway verification.
-* **UI Restoration:** Fixes frozen taskbars and rebuilds corrupted icon caches.
-* **Cache Purging:** Clears junk temp files and flushes stuck Windows Update downloads.
+### 🛠️ Maintenance & Repair
+Provides simple, automated shortcuts for common system tasks like flushing DNS, clearing temp folders, and checking system file integrity.
 
-### 📊 Deep Hardware Profiling
-* **RAM Spec:** Manufacturer name, stick speed (MHz), and slot placement.
-* **Storage Detail:** Identifies models and specific bus interfaces (NVMe vs. SATA).
-
-### 🤖 Virtue Knowledge Base (Q&A)
-An interactive guidance module. Type keywords like `slow`, `repair`, or `health` to get instant advice on how to use Virtue to fix specific issues.
+### 📊 System Information
+Granular hardware profiling and software inventory summaries without third-party dependencies.
 
 ---
 
-## 🚀 Performance & UI
-* **Auto-Scaling:** The console automatically fills your screen for a modern look.
-* **Theme Engine:** Includes Matrix, Arctic, Blood, and Dark modes.
-* **Zero Dependencies:** Runs entirely on native Windows commands—no installation required.
-
-## 💻 Compatibility
-* Full support for **Windows 7, 8, 8.1, 10, and 11**.
-* Requires Administrative privileges for system repairs.
+## 🚀 How to Use
+1. Head over to the **Releases** tab on the right side of this page to download the latest stable version.
+2. Extract the file, right-click, and select **Run as Administrator**.
 
 ---
-**Virtue v1.0-Beta | Empowering users through system transparency. Developed by Benny.**
+*Project under active development. Developed by Benny.*
