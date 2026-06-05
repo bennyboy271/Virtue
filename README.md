@@ -1,26 +1,32 @@
-# 🛡️ Virtue Utility Suite (Beta)
-**Maintained by: Benny**
+# 🛡️ Virtue v1.0
+**Made by: Benny**
 
-Virtue is an open-source system administration and diagnostic suite engineered for Windows environments. It provides a centralized, full-screen interface for real-time health monitoring, system file auditing, and automated maintenance tasks.
-
----
-
-## 🌟 Core Features
-
-### 🩺 Ultimate Health Checker
-A live dashboard checking your PC's essentials, including CPU load, RAM utilization, and storage status.
-
-### 🛠️ Maintenance & Repair
-Provides simple, automated shortcuts for common system tasks like flushing DNS, clearing temp folders, and checking system file integrity.
-
-### 📊 System Information
-Granular hardware profiling and software inventory summaries without third-party dependencies.
+Virtue is a fast, lightweight toolkit designed to check your computer's hardware, fix common Windows glitches, and keep your PC running smoothly. No installations, no heavy apps—just a simple, powerful tool that gets straight to work.
 
 ---
 
-## 🚀 How to Use
-1. Head over to the **Releases** tab on the right side of this page to download the latest stable version.
-2. Extract the file, right-click, and select **Run as Administrator**.
+## ⚡ Main Features
+
+### 🩺 Quick PC Health Check [H]
+See how your computer is doing instantly:
+* **Temps & Load:** Checks CPU, Graphics (GPU), and temperature levels.
+* **Storage Health:** Scans your hard drives to make sure they aren't failing.
+* **Windows Status:** Checks if your PC needs a restart for updates.
+
+### 🛠️ One-Click Fixes & Troubleshooting [9 & 10]
+* **Internet Fix:** Flush DNS and reset network settings to fix Wi-Fi issues.
+* **App & UI Rescue:** Unfreeze the taskbar, restart Windows Explorer, and fix app store errors.
+* **Deep Clean:** Wipe out slow temp files and clear corrupted update caches.
+
+### 💬 Chat Helper [A]
+Got questions? Open the built-in Chat Helper to talk about your PC or get quick tips on how to use the toolkit.
 
 ---
-*Project under active development. Developed by Benny.*
+
+## 📥 How to Run It
+1. Download `virtue.bat`.
+2. Right-click the file and choose **Run as Administrator**.
+3. Use the simple menu to manage your system.
+
+---
+*Clean, fast, and simple. Developed by Benny.*
